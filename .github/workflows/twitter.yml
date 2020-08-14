@@ -9,4 +9,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Mhmdabed11/md-replacer@0.23
+      - uses: Mhmdabed11/md-replacer@0.24
+        with:
+          USERNAME: "mhmdabed11"
